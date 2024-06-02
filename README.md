@@ -22,8 +22,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 * Python 3.7 o superior
 * Jupyter Notebook o Visual Studio Code Librerias necesarias para instalar y ejecutar Jupyter Notebook
-**pip install notebook
-**pip install jupyterlab
+** pip install notebook
+** pip install jupyterlab
   
 **Instalación**
 
