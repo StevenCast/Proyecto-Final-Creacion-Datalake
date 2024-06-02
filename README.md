@@ -7,10 +7,10 @@ Este repositorio contiene un proyecto de datalake que combina datos de 6 bases d
 
 **Contenido**
 
-*Descripción
-*Requisitos previos
-*Instalación
-*Ejecución
+* Descripción
+* Requisitos previos
+* Instalación
+* Ejecución
 
 **Descripción**
 
@@ -55,6 +55,7 @@ Ejecuta los diferentes scripts principales:
 Como resultado de la ejecución de cada apartado de codigo los datos se extraerán de los gestores de bases de datos y finalmente se almacenarán en el datalake.
 
 A continuación se presenta los enlaces de:
+
 **Informe del Proyecto** https://epnecuador-my.sharepoint.com/:b:/g/personal/alexis_farinango_epn_edu_ec/EbVXpo8En0ZCjjbiCYqEfUcBRfBPg1AhnyJX0O8nqKViBA?e=rTFLHS
 
 **Visualizaciones en Power BI** https://app.powerbi.com/view?r=eyJrIjoiMzA0ZWIwODctNmYzMC00MDIzLTg1YmItZjk4OGUzNGEyZGU3IiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
